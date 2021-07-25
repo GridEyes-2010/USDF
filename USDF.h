@@ -1,3 +1,4 @@
+#pragma once
 #include <CobraTypesDefine.h>
 #include <spdlog/spdlog.h>
 #define CPT_NN_TRIANGLE 0
